@@ -10,7 +10,7 @@ I used starter boiler code provided by Dennis Ivy that had the front end built a
 
 ### Learning points
 
-- More practice with react routers (found this challenging to understanding previous, this gave better insight into how react-router-dom works and its uses, especially using useNavigation)
+- More practice with react routers (found this challenging to understanding previous, this gave better insight into how react-router-dom works and its uses, especially using useNavigation and creating private routes to only be accessed one a user has signed in successfully)
 
 - Used createContext for the first time - this was used for user authentication component, using this in react allowed me to generate all the logic and functions for user login in and registration and I could have access to these functions by exporting a function called useContext and pass in the component that contained all the functions  
 
